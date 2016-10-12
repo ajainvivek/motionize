@@ -1,0 +1,48 @@
+{
+  "name": "motionize",
+  "version": "1.0.0",
+  "description": "motion design inspired components for web",
+  "main": "app.ts",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^0.14",
+    "react-dom": "^0.14"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "node-sass": "^3.10.1",
+    "sass-loader": "^4.0.2",
+    "source-map-loader": "^0.1.5",
+    "strip-loader": "^0.1.2",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2",
+    "typings": "^0.7.9",
+    "typescript": "1.8.9",
+    "ts-loader": "^0.9.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --port 9001 -d",
+    "prepublish": "typings install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajainvivek/motionize.git"
+  },
+  "keywords": [
+    "motion",
+    "design",
+    "components",
+    "motionize"
+  ],
+  "author": "Ajain Vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajainvivek/motionize/issues"
+  },
+  "homepage": "https://github.com/ajainvivek/motionize#readme"
+}
