@@ -1,7 +1,7 @@
 {
-  "name": "motionize",
+  "name": "react-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "motion design inspired components for web",
+  "description": "Light weight react typescript boilerplate to get you started",
   "main": "app.ts",
   "dependencies": {
     "jquery": "^3.1.1",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajainvivek/motionize.git"
+    "url": "git+https://github.com/ajainvivek/react-typescript-boilerplate.git"
   },
   "keywords": [
     "motion",
@@ -43,7 +43,7 @@
   "author": "Ajain Vivek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajainvivek/motionize/issues"
+    "url": "https://github.com/ajainvivek/react-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/ajainvivek/motionize#readme"
+  "homepage": "https://github.com/ajainvivek/react-typescript-boilerplate#readme"
 }
